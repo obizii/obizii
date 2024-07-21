@@ -1,7 +1,7 @@
 ### Hello! My name is Chris. 👋
 
 - 🔭 I’m currently working on a consulting website
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning AWS and Azure
 - 👯 I’m looking to collaborate on infrastructure automation
 - 🤔 I’m looking for help with cloud infrastructure and terraform
 - 💬 Ask me about anything!
